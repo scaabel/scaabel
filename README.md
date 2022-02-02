@@ -1,5 +1,5 @@
 ### Hi there, I'm Sca 👋
-I am a Software Engineer working at [Worksmartly](https://www.worksmartly.com/) and previously tenured at Supplycart](https://adam-procure.com/).
+I am a Software Engineer working at [Worksmartly](https://www.worksmartly.com/) and previously tenured at [Supplycart](https://adam-procure.com/).
 
 Here are some open source projects that I have worked on:
 - [Domains](https://github.com/supplycart/domains)
